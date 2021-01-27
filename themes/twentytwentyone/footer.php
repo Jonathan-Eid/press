@@ -41,12 +41,6 @@
 		<?php endif; ?>
 		<div class="site-info">
 			<div class="site-name">
-			<div>Twitta</div>
-			<div>Twitta</div>
-			<div>Twitta</div>
-			<div>Twitta</div>
-			<div>Twitta</div>
-			<div>Twitta</div>
 				<?php if ( has_custom_logo() ) : ?>
 					<div class="site-logo"><?php the_custom_logo(); ?></div>
 				<?php else : ?>
