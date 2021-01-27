@@ -23,6 +23,7 @@
 	</header><!-- .entry-header -->
 
 	<div class="entry-content">
+	<div>TESTING IT OUT TOO</div>
 		<?php
 		the_content(
 			twenty_twenty_one_continue_reading_text()
