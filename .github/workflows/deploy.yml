@@ -13,4 +13,4 @@ jobs:
         username: ${{ secrets.USERNAME }}
         port: ${{ secrets.PORT }}
         key: ${{secrets.KEY}}
-        script: whoami
+        script: cd apps/wordpress/htdocs/wp-content/; sudo git pull
