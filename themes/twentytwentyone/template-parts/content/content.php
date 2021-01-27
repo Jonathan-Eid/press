@@ -23,7 +23,6 @@
 	</header><!-- .entry-header -->
 
 	<div class="entry-content">
-	<div>TESTING IT OUT TOO</div>
 		<?php
 		the_content(
 			twenty_twenty_one_continue_reading_text()
@@ -38,10 +37,13 @@
 			)
 		);
 
-		?>
+		?>			<div>TESTING IT OUT TOO</div>
+
 	</div><!-- .entry-content -->
 
 	<footer class="entry-footer default-max-width">
+	<div>TESTING IT OUT TOO</div>
+
 		<?php twenty_twenty_one_entry_meta_footer(); ?>
 	</footer><!-- .entry-footer -->
 </article><!-- #post-${ID} -->

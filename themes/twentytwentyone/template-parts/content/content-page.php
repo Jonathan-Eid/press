@@ -25,7 +25,6 @@
 	<?php endif; ?>
 
 	<div class="entry-content">
-	<div>TESTING IT OUT TOO</div>
 		<?php
 		the_content();
 
