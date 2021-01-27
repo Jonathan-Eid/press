@@ -17,6 +17,7 @@
 		<header class="entry-header alignwide">
 			<?php get_template_part( 'template-parts/header/entry-header' ); ?>
 			<?php twenty_twenty_one_post_thumbnail(); ?>
+			<div>TESTING IT OUT TOO</div>
 		</header>
 	<?php elseif ( has_post_thumbnail() ) : ?>
 		<header class="entry-header alignwide">
